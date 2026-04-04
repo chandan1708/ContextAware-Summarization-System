@@ -7,11 +7,13 @@ src/contextAwareSummarizationSystem.egg-info/SOURCES.txt
 src/contextAwareSummarizationSystem.egg-info/dependency_links.txt
 src/contextAwareSummarizationSystem.egg-info/top_level.txt
 src/contextAwareSummarizationSystem/components/__init__.py
+src/contextAwareSummarizationSystem/components/data_ingestion.py
 src/contextAwareSummarizationSystem/config/__init__.py
 src/contextAwareSummarizationSystem/config/configuration.py
 src/contextAwareSummarizationSystem/constants/__init__.py
 src/contextAwareSummarizationSystem/entity/__init__.py
 src/contextAwareSummarizationSystem/logging/__init__.py
 src/contextAwareSummarizationSystem/pipeline/__init__.py
+src/contextAwareSummarizationSystem/pipeline/stage_01_data_ingestion.py
 src/contextAwareSummarizationSystem/utils/__init__.py
 src/contextAwareSummarizationSystem/utils/common.py
